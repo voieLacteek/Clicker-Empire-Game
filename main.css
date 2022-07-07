@@ -1,0 +1,78 @@
+.bg-midBlue {
+  background-color: #3E4657;
+}
+
+.text-lightGray {
+  color: #DDDCDA;
+}
+
+.bg-lightGray {
+  background-color: #DDDCDA;
+}
+
+.text-offWhite {
+  color: #e9e4de;
+}
+
+.text-greige {
+  color: #b6a385;
+}
+
+.bg-baioBlue {
+  background-color: #40548c;
+}
+
+.border-midBlue {
+  border: 0.2rem solid #3E4657;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  width /***/: auto;
+}
+
+.img-fluid-height {
+  max-height: 10%;
+  width: auto;
+  width/***/: auto;
+}
+
+
+.overflowAuto {
+  overflow: auto;
+}
+
+.h-100vh {
+  height: 100vh;
+}
+
+.flowHeight {
+  height: 80%;
+}
+
+/* .mx-h-80 {} */
+
+.imgFit {
+  max-height: 60vh;
+  object-fit: contain;
+}
+
+.hover {
+  cursor: pointer;
+}
+
+.hover-border {
+  display: block;
+}
+
+.hover-border:hover {
+  border: solid 1px #b6a385;
+}
+
+
+
+img {
+  vertical-align: middle;
+  border-style: none;
+}
